@@ -26,7 +26,7 @@ section h1{
   margin: 0px auto;
   text-align: center;
   font-size: 36px;
-  font-family: "Ibm plex mono";
+  font-family: "Ibm plex mono", 'Courier New', Courier, monospace;
   letter-spacing: .1em;
   padding: 20px;
 }
